@@ -4,7 +4,7 @@
 
 ### CS50x
 
-<h1 style="color:blue;">some *This is Blue italic.* text</h1>
+<span style="color: #f244e6;">What colour am I?</span>
 
 ### CS50p
 
