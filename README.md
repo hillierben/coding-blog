@@ -4,7 +4,7 @@
 
 ### CS50x
 
-<span style="color: RED;">What colour am I?</span>
+<span style="color: BLUE;">What colour am I?</span>
 
 ### CS50p
 
