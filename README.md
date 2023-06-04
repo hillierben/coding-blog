@@ -4,7 +4,7 @@
 
 ### CS50x
 
-<span style="color: #f244e6;">What colour am I?</span>
+<span style="color: RED;">What colour am I?</span>
 
 ### CS50p
 
@@ -16,10 +16,4 @@ HTML and CSS
 
 ### Scrimba's Learn React
 
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
