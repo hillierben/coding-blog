@@ -4,7 +4,7 @@
 
 ### CS50x
 
-<span style="color:blue;">some *This is Blue italic.* text</span>
+<h1 style="color:blue;">some *This is Blue italic.* text</h1>
 
 ### CS50p
 
