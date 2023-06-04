@@ -2,7 +2,7 @@
 
 ## What I've learnt so far
 
-### CS50x
+- ### CS50x
 
 ### CS50p
 
