@@ -1,11 +1,15 @@
 # Coding Blog
 
-## Where I'm currently at
+## What I've learnt so far
 
-### Course I've been studying
-* CS50x
-* CS50p
-* CS50w
-* freeCodeCamp
-  * HTML and CSS
-* Scrimba's Learn React
+### CS50x
+
+### CS50p
+
+### CS50w
+
+### freeCodeCamp
+
+HTML and CSS
+
+### Scrimba's Learn React
