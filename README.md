@@ -7,5 +7,5 @@
 * CS50p
 * CS50w
 * freeCodeCamp
-  ** HTML and CSS
+  * HTML and CSS
 * Scrimba's Learn React
